@@ -1,0 +1,11 @@
+{
+  "pages": [
+    { 
+      "name": "Home",
+      "src": "./home.html"
+
+
+    
+    }
+  ]
+}
